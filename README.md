@@ -2,7 +2,7 @@
 
 Ik ben een Homelabber, mijn Homelab is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Met Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Ik heb het Lab gebouwd als hobby, voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
 
-Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. 
+Als proactieve ICT-professional met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. 
 
 > *"Mijn persoonlijke visie is simpel: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".*
 
@@ -35,7 +35,8 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 * AI Focus: [Voice Pipeline Edition (PE)](https://voice-pe.home-assistant.io)
 * OS Focus: [Open Source](https://opensource.com/)
 * Energy: [Tado](https://www.tado.com), [SolarEdge](https://www.solaredge.com), [Ethernet P1 Pro+](https://smart-stuff.nl/)
-* Location:[ DMZ](https://en.wikipedia.org/wiki/DMZ_(computing))
+* Domain: [badkey.com](https://www.secureserver.net/whois?plid=1592&domain=badkey.com)
+* Location:[DMZ](https://en.wikipedia.org/wiki/DMZ_(computing))
 * Workflow Engine: [n8n](https://n8n.io), [Node-RED](https://nodered.org/)
 * Document Management Systeem (DMS): [HCL Domino](https://www.hcl-software.com/domino) 
 * Creatieve Integratie: Ik gebruik [HCL Domino](https://www.hcl-software.com/domino) voor de historische rapportage vanuit [Grafana](https://grafana.com). 
