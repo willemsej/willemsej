@@ -16,43 +16,39 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 > **"In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"**
 
-### **De HomeLab Stack:**
-* Virtualisatie: [KVM-virtualisatie](https://www.linux-kvm.org)  
-* Data Storage: [QNAP](https://www.qnap.com), [HCL Domino](https://www.hcl-software.com/domino)
-* Data Protection: [Proxmox Backup Server (PBS)](https://www.proxmox.com/en/proxmox-backup-server)
-* Data Analyse: [Grafana](https://grafana.com)
-* Database: [InfluxDB](https://www.influxdata.com), [HCL Domino](https://www.hcl-software.com/domino)
-* Monitoring & Analyse: [Grafana](https://grafana.com), [Home Assistant (HA)](https://www.home-assistant.io) 
-* Password Policy: [LastPass](https://www.lastpass.com/)
-* FireWall: [PfSence](https://www.pfsense.org/), [Netgate SG Series](https://www.netgate.com/)
-* VPN Router: [ExpressVPN](https://www.expressvpn.com/) (NUC op Bare Metal)
-* Networking: [AdGuard Home](https://adguard.com/nl/adguard-home/overview.html) [Twingate](https://www.twingate.com)
-* Security: [DigiCert](https://www.digicert.com), [TOTP (2FA)](https://en.wikipedia.org/wiki/Time-based_one-time_password)
-* Wifi: [Netgear](https://www.netgear.com/)
-* Webserver: [Apache](https://httpd.apache.org/), [HCL Domino](https://www.hcl-software.com/domino)
-* Smart Home Innovation: [Home Assistant (HA)](https://www.home-assistant.io) 
-* AI Lifeline: [Gemini AI-API](https://ai.google.dev/)
-* AI Focus: [Voice Pipeline Edition (PE)](https://voice-pe.home-assistant.io)
-* OS Focus: [Open Source](https://opensource.com/)
-* Energy: [Tado](https://www.tado.com), [SolarEdge](https://www.solaredge.com), [Ethernet P1 Pro+](https://smart-stuff.nl/)
-* Domain: [badkey.com](https://www.secureserver.net/whois?plid=1592&domain=badkey.com)
-* Location:[DMZ](https://en.wikipedia.org/wiki/DMZ_(computing))
-* Workflow Engine: [n8n](https://n8n.io), [Node-RED](https://nodered.org/)
-* Document Management Systeem (DMS): [HCL Domino](https://www.hcl-software.com/domino) 
-* Creatieve Integratie: Ik gebruik [HCL Domino](https://www.hcl-software.com/domino) voor de historische rapportage vanuit [Grafana](https://grafana.com). 
+### 🛠️ De HomeLab Stack 
 
-> **Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste keuze te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor techniek en dan hierin ook een baan met passie te vinden, was voor mijn een droom. Ik heb dat kunnen omzetten naar werk !**
+| Domein | Technologieën & Componenten |
+| :--- | :--- |
+| **Virtualisatie** | <a href="https://www.linux-kvm.org" target="_blank">KVM / Proxmox VE</a> |
+| **Messaging & DMS** | <a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a> (Email Routing, Topology & DMS) |
+| **Data & Analyse** | <a href="https://grafana.com" target="_blank">Grafana</a> & <a href="https://www.influxdata.com" target="_blank">InfluxDB</a> |
+| **Data Protection** | <a href="https://www.proxmox.com/en/proxmox-backup-server" target="_blank">Proxmox Backup Server (PBS)</a> & <a href="https://www.qnap.com" target="_blank">QNAP Storage</a> |
+| **Smart Home & AI** | <a href="https://www.home-assistant.io" target="_blank">Home Assistant (HA)</a>, <a href="https://voice-pe.home-assistant.io" target="_blank">Voice PE</a> & <a href="https://ai.google.dev/" target="_blank">Gemini AI-API</a> |
+| **Netwerk & Security** | <a href="https://www.pfsense.org/" target="_blank">pfSense</a> (Netgate SG), <a href="https://adguard.com/nl/adguard-home/overview.html" target="_blank">AdGuard Home</a> & <a href="https://www.twingate.com" target="_blank">Twingate</a> |
+| **Privacy & Access** | <a href="https://www.lastpass.com/" target="_blank">LastPass</a>, <a href="https://www.digicert.com" target="_blank">DigiCert</a> & <a href="https://en.wikipedia.org/wiki/Time-based_one-time_password" target="_blank">TOTP (2FA)</a> |
+| **Connectiviteit** | <a href="https://www.expressvpn.com/" target="_blank">ExpressVPN</a> (NUC Bare Metal) & <a href="https://www.netgear.com/" target="_blank">Netgear Wifi</a> |
+| **Workflow Engine** | <a href="https://n8n.io" target="_blank">n8n</a> & <a href="https://nodered.org/" target="_blank">Node-RED</a> |
+| **Energie & Infra** | <a href="https://smart-stuff.nl/" target="_blank">Ethernet P1 Pro+</a> (`sensor.eth_dongle_pro`), <a href="https://www.tado.com" target="_blank">Tado</a> & <a href="https://www.solaredge.com" target="_blank">SolarEdge</a> |
+| **Web & Domain** | <a href="https://httpd.apache.org/" target="_blank">Apache</a> & <a href="https://www.secureserver.net/whois?plid=1592&domain=badkey.com" target="_blank">badkey.com</a> in <a href="https://en.wikipedia.org/wiki/DMZ_(computing)" target="_blank">DMZ</a> |
 
-### HCL Domino (Extra)
-* Gecertificeerd Expert: [HCL Domino Administration](https://www.hcl-software.com/domino)
-* Messaging & Collaboration Expert: [HCL Domino Email Routing & Topology](https://www.hcl-software.com/domino)
-* Architectuur Expert: [Performance Tuning & Troubleshooting](https://www.hcl-software.com/domino), [Domino Security & Infrastructure Design](https://www.hcl-software.com/domino) [HCL Advanced Topology](https://www.hcl-software.com/domino)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willemsej)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/willemsej)
-[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/willemsej)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/willemsej.bsky.social)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)
+### 💡 Systeem Integratie & Filosofie
+* **Creatieve Synergie:** Historische rapportage vanuit <a href="https://grafana.com" target="_blank">Grafana</a> wordt structureel verwerkt binnen de <a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a> omgeving.
+* **OS-Focus:** Het volledige ecosysteem is gebouwd op de principes van **Open Source**.
+* **HCL Domino Expertise:** Gecertificeerd expert in Administration, Email Routing, Topology en Security Infrastructure.
+
+> **"Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste keuze te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor techniek en dan hierin ook een baan met passie te vinden, was voor mijn een droom. Ik heb dat kunnen omzetten naar werk !**
+
+---
+
+### 🔗 Digitale Voetafdruk
+<a href="https://www.linkedin.com/in/willemsej" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/willemsej" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://x.com/willemsej" target="_blank"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"></a>
+<a href="https://bsky.app/profile/willemsej.bsky.social" target="_blank"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"></a>
+<a href="https://orcid.org/0009-0005-2827-5748" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 
 ---
 
