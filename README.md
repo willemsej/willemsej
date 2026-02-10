@@ -1,11 +1,15 @@
-# [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748) John Willemse | R&D Enthusiast & ICT Professional
+[![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)   <small>John Willemse | ICT Professional | ICT Architect (R&D Home) | R&D Enthusiast | Open Source Advocate</small>   
 
-Ik ben een ICT Architect (R&D Home) met een passie voor procesoptimalisatie. Mijn lab is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen.
-Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Ik heb het Lab gebouwd als hobby, voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
+# [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748) &nbsp; <sub>John Willemse | ICT Professional | ICT Architect (R&D Home) | R&D Enthusiast | Open Source Advocate</sub>
+
+
+
+
+Ik ben een Homelabber, mijn Homelab is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Met Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Ik heb het Lab gebouwd als hobby, voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
 
 Als proactieve ICT-professional (R&D Enthusiast) met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. 
 
-> **"Mijn persoonlijke visie is simpel: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".**
+> *"Mijn persoonlijke visie is simpel: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".*
 
 ### Onderzoek:
 In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
@@ -36,6 +40,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 * AI Focus: [Voice Pipeline Edition (PE)](https://voice-pe.home-assistant.io)
 * OS Focus: [Open Source](https://opensource.com/)
 * Energy: [Tado](https://www.tado.com), [SolarEdge](https://www.solaredge.com), [Ethernet P1 Pro+](https://smart-stuff.nl/)
+* Location:[ DMZ](https://en.wikipedia.org/wiki/DMZ_(computing))
 * Workflow Engine: [n8n](https://n8n.io), [Node-RED](https://nodered.org/)
 * Document Management Systeem (DMS): [HCL Domino](https://www.hcl-software.com/domino) 
 * Creatieve Integratie: Ik gebruik [HCL Domino](https://www.hcl-software.com/domino) voor de historische rapportage vanuit [Grafana](https://grafana.com). 
