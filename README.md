@@ -2,7 +2,7 @@
 
 Ik ben een Homelabber, mijn Homelab is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Ik heb het Lab gebouwd als hobby, voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
 
-Als proactieve ICT-professional met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. 
+Als proactieve ICT-Professional met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. 
 
 > *"Mijn persoonlijke visie is simpel: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".*
 
