@@ -11,7 +11,6 @@ Als proactieve ICT-Professional met een visie op innovatie, focus ik op mij het 
 ![System Architecture](https://img.shields.io/badge/Architecture-Enterprise_Grade-blue?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Philosophy-Open_Source-success?style=flat-square)
 ![Research](https://img.shields.io/badge/Focus-Cognitive_Automation-orange?style=flat-square)
-![AI Knowledge](https://img.shields.io/badge/AI_Implementation-blueviolet?style=flat-square)
 
 ### Onderzoek & Visie: Cognitive Automation
 In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
