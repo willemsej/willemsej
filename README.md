@@ -16,15 +16,15 @@ Als proactieve ICT-Professional met een visie op innovatie, focus ik op mij het 
 In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
 * **Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
 
-> **De stap van een 'Bestuurbaar' huis naar een huis dat begrijpt wat je nodig hebt.**
+> *"De stap van een 'Bestuurbaar' huis naar een huis dat begrijpt wat je nodig hebt."*
 
 * **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer)  **"De Autonome Beheerder"**
 
-> **"In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"**
+> *"In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"*
 
 ---
 
-> *"Samen bereik je meer dan alleen" & "Stilstaan is achteruitgang"*
+> *"Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang."*
 
 ---
 
