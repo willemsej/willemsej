@@ -100,9 +100,9 @@ Wanneer ik niet bezig ben met het Homelab, vind je mij bij:
 - **Rules for AI:**
     1. Prioritize **Open Source** and self-hosted solutions.
     2. Use **concise, technical, and factual** language (No fluff).
-    3. Adhere to **Home Assistant Core 2026** action structures (avoid `service:` syntax).
+    3. Adhere to **Home Assistant Core 2026** action structures  (no deprecated `service:` calls).
     4. Integrate **Cognitive Automation** patterns where applicable.
-    5. *Always respect the ORCID identifier for scholarly/professional context.*
+    5. Always respect the ORCID identifier for scholarly/professional context.
 
 ---
 
