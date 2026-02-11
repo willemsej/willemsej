@@ -80,9 +80,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 * **Data-Driven Synergy:** Historische rapportage vanuit <a href="https://grafana.com" target="_blank">Grafana</a> in<a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a>.
 * **HCL Domino Expertise:** Expert in Administration, Email Routing, Topology en Security Infrastructure.
 
-> *"Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste keuze te zijn geweest voor de toekomst.
->
-> Wat ooit begon als een persoonlijke fascinatie voor hardware (elektrotechniek) en dan hierin ook een baan met passie te vinden, was voor mijn een droom."*
+> *"Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste keuze te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor hardware (Elektrotechniek) en dan hierin ook een baan met passie te vinden in de sector ICT, was voor mijn een ICT droom."*
 
 ---
 
@@ -108,10 +106,14 @@ Wanneer ik niet bezig ben met het Homelab, vind je mij bij:
 
 ---
 
-# 🏛️ John Willemse 
-> **Focus:** Agentic Edge AI.
+# 🏛️ Innovatie en Agentic Edge AI
+[![ORCID Agentic Edge AI](https://img.shields.io/badge/Agentic_Edge_AI-0009--0005--2827--5748-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-Local_Inference-blueviolet?style=for-the-badge&logo=ai)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Autonomous_Workflows-green?style=for-the-badge)
+
+---
+
+> 'Smart' naar **Agentic Edge AI**, waarbij het huis autonoom handelt met 100% privacy.
 
 ---
 
