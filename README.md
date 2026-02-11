@@ -80,13 +80,15 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 * **Data-Driven Synergy:** Historische rapportage vanuit <a href="https://grafana.com" target="_blank">Grafana</a> in<a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a>.
 * **HCL Domino Expertise:** Expert in Administration, Email Routing, Topology en Security Infrastructure.
 
-> **"Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste keuze te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor techniek en dan hierin ook een baan met passie te vinden, was voor mijn een droom.**
+> *"Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste keuze te zijn geweest voor de toekomst.
+>
+> Wat ooit begon als een persoonlijke fascinatie voor hardware (elektrotechniek) en dan hierin ook een baan met passie te vinden, was voor mijn een droom."*
 
 ---
 
-## 📸 Naast de code
+## 📸 Naast de code Hobbies
 Wanneer ik niet bezig ben met het Homelab, vind je mij bij:
-✈️ Reizen | 🍽️ Uit eten | 📷 Digitale Fotografie
+✈️ Reizen | 🍽️ Uit eten | 📷 Digitale Fotografie | 🏛️ ICT Architect Advies (R&D Home)
 
 ---
 
