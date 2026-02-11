@@ -6,7 +6,7 @@ Als proactieve ICT-Professional met een visie op innovatie, focus ik op mij het 
 
 > *"Mijn persoonlijke visie is simpel: "Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang".*
 
-### Onderzoek:
+### Onderzoek & Visie: Cognitive Automation
 In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
 * **Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
 
@@ -15,6 +15,17 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 * **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer)  **"De Autonome Beheerder"**
 
 > **"In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"**
+
+---
+
+### 🏅 Professional Expertise & Certifications
+[![Proxmox VE](https://img.shields.io/badge/Infrastructure-Proxmox_VE-orange?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
+[![ICT Architect](https://img.shields.io/badge/Role-ICT_Architect-orange?style=for-the-badge&logo=architecture&logoColor=white)](https://github.com/willemsej)
+[![HCL Domino Expert](https://img.shields.io/badge/HCL_Domino-_Routing_%26_Topology-blue?style=for-the-badge&logo=hcl&logoColor=white)](https://www.hcl-software.com/domino)
+
+> **ICT Professional Profile:** Specialized in enterprise architecture, high-availability email topology, and virtualized R&D environments.
+
+---
 
 ### 🛠️ De HomeLab Stack 
 
