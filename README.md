@@ -1,5 +1,7 @@
 [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)   <small>John Willemse | ICT Professional | ICT Architect (R&D Home) | R&D Enthusiast | Open Source Advocate</small>   
 
+---
+
 Ik ben een Homelabber, mijn Homelab is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Mijn Homelab overstijgt in fundament het gemiddelde MKB en fungeert als het kloppend hart van mijn persoonlijke R&D ecosysteem. Ik heb het Lab gebouwd als hobby, voor mijn passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
 
 Als proactieve ICT-Professional met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. 
@@ -25,6 +27,16 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 > *"Samen bereik je meer dan alleen" & "Stilstaan is achteruitgang"*
 
+---
+
+### 🚀 Innovation & R&D Focus
+![AI Knowledge](https://img.shields.io/badge/AI_Implementation-Expert-blueviolet?style=flat-square)
+![Research](https://img.shields.io/badge/Focus-Cognitive_Automation-blueviolet?style=flat-square)
+![Open Source](https://img.shields.io/badge/Philosophy-Open_Source-success?style=flat-square)
+![Innovation](https://img.shields.io/badge/R%26D_Focus-The_Autonomous_Administrator-orange?style=flat-square)
+
+---
+
 ### 🏅 Professional Expertise & Certifications
 [![Proxmox VE](https://img.shields.io/badge/Infrastructure-Proxmox_VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com)
 [![ICT Architect](https://img.shields.io/badge/Role-ICT_Architect-orange?style=flat-square&logo=architecture&logoColor=white)](https://github.com/willemsej)
@@ -34,6 +46,13 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 > **ICT Professional Profile:** Specialized in enterprise architecture, high-availability email topology, and virtualized R&D environments.
 
+---
+
+### 🏅 Core Expertise & Architecture
+[![ICT Architect](https://img.shields.io/badge/Role-ICT_Architect-orange?style=flat-square&logo=architecture&logoColor=white)](https://github.com/willemsej)
+[![Proxmox VE](https://img.shields.io/badge/Infrastructure-Proxmox_VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com)
+[![HCL Domino](https://img.shields.io/badge/HCL_Domino-Routing_%26_Topology-blue?style=flat-square&logo=hcl&logoColor=white)](https://www.hcl-software.com/domino)
+![System Architecture](https://img.shields.io/badge/Architecture-Enterprise_Grade-blue?style=flat-square)
 ---
 
 ### 🛠️ De HomeLab Stack 
@@ -55,9 +74,12 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 ---
 
 ### 💡 Systeem Integratie & Filosofie
-* **Creatieve Synergie:** Historische rapportage vanuit <a href="https://grafana.com" target="_blank">Grafana</a> wordt structureel verwerkt binnen de <a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a> omgeving.
-* **OS-Focus:** Het volledige ecosysteem is gebouwd op de principes van **Open Source**.
-* **HCL Domino Expertise:** Gecertificeerd expert in Administration, Email Routing, Topology en Security Infrastructure.
+* OS-Focus: <a href="https://en.wikipedia.org/wiki/Open-source_software)" target="_blank">Open Source</a>
+* **Open Source Framework:** Het R&D ecosysteem is gebouwd op de principes van <a href="https://en.wikipedia.org/wiki/Open-source_software)" target="_blank">Open Source</a>.
+* **Creatieve Synergie:** Historische rapportage vanuit <a href="https://grafana.com" target="_blank">Grafana</a> wordt opgeslagen in de <a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a> omgeving.
+* **Security-by-Design:** Ik implementeer de enterprise standaarden op het R&D ecosysteem Homelab.
+* **Data-Driven Synergy:** Historische rapportage vanuit <a href="https://grafana.com" target="_blank">Grafana</a> in<a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a>.
+* **HCL Domino Expertise:** Expert in Administration, Email Routing, Topology en Security Infrastructure.
 
 > **"Mijn hobby en Passie zijn uit de hand gelopen, maar later bleek dit toch de juiste keuze te zijn geweest voor de toekomst. Wat ooit begon als een persoonlijke fascinatie voor techniek en dan hierin ook een baan met passie te vinden, was voor mijn een droom. Ik heb dat kunnen omzetten naar werk !**
 
