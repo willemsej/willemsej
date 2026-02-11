@@ -21,7 +21,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 ### 🏅 Professional Expertise & Certifications
 [![Proxmox VE](https://img.shields.io/badge/Infrastructure-Proxmox_VE-orange?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
 [![ICT Architect](https://img.shields.io/badge/Role-ICT_Architect-orange?style=for-the-badge&logo=architecture&logoColor=white)](https://github.com/willemsej)
-[![HCL Domino Expert](https://img.shields.io/badge/HCL_Domino-_Routing_%26_Topology-blue?style=for-the-badge&logo=hcl&logoColor=white)](https://www.hcl-software.com/domino)
+[![HCL Domino](https://img.shields.io/badge/HCL_Domino_Routing_%26_Topology-blue?style=for-the-badge&logo=hcl&logoColor=white)](https://www.hcl-software.com/domino)
 
 > **ICT Professional Profile:** Specialized in enterprise architecture, high-availability email topology, and virtualized R&D environments.
 
