@@ -73,7 +73,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 ---
 
 ### 💡 Systeem Integratie & Filosofie
-* OS-Focus: <a href="https://en.wikipedia.org/wiki/Open-source_software)" target="_blank">Open Source</a>
+* **OS-Focus:** <a href="https://en.wikipedia.org/wiki/Open-source_software)" target="_blank">Open Source</a>.
 * **Open Source Framework:** Het R&D ecosysteem is gebouwd op de principes van <a href="https://en.wikipedia.org/wiki/Open-source_software)" target="_blank">Open Source</a>.
 * **Creatieve Synergie:** Historische rapportage vanuit <a href="https://grafana.com" target="_blank">Grafana</a> wordt opgeslagen in de <a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a> omgeving.
 * **Security-by-Design:** Ik implementeer de enterprise standaarden op het R&D ecosysteem Homelab.
