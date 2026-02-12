@@ -26,7 +26,8 @@ Als proactieve [ICT-Professional](https://www.linkedin.com/in/willemsej/) focus 
 
 <hr>
 
-### 🧠 Onderzoek & Visie: Cognitive Automation
+### 🧠 Onderzoek & Visie: Cognitive Automation 
+
 In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
 * **Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
 
@@ -34,11 +35,11 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 * **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer) via [Agentic Edge AI](https://wiki.ubc.ca/Agentic_AI) **"De Autonome Beheerder"**
 
-> *"In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"*
+> *![Agentic AI](https://img.shields.io/badge/Agentic_AI-Local_Inference-8A2BE2?style=flat-square&logo=openai&logoColor=white) "In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"*
 
 ---
 
-> *"Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang.🤝"*
+> *"Samen bereik je meer dan alleen" en "Stilstaan is achteruitgang."* 🤝
 
 ---
 
@@ -75,7 +76,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 | **Messaging & DMS** | <a href="https://www.hcl-software.com/domino" target="_blank">HCL Domino</a> (Email Routing, Topology & DMS) |
 | **Data & Analyse** | <a href="https://grafana.com" target="_blank">Grafana</a> & <a href="https://www.influxdata.com" target="_blank">InfluxDB</a> |
 | **Data Protection** | <a href="https://www.proxmox.com/en/proxmox-backup-server" target="_blank">Proxmox Backup Server (PBS)</a> & <a href="https://www.qnap.com" target="_blank">QNAP Storage</a> |
-| **Smart Home & AI** | <a href="https://www.home-assistant.io" target="_blank">Home Assistant (HA)</a>, <a href="https://voice-pe.home-assistant.io" target="_blank">Voice PE</a> & <a href="https://ai.google.dev/" target="_blank">Gemini AI-API</a> (Purpose: Cognitive Automation & System Management) |
+| **Smart Home & AI** | <a href="https://www.home-assistant.io" target="_blank">Home Assistant (HA) Core 2026 Action Structure</a>, <a href="https://voice-pe.home-assistant.io" target="_blank">Voice PE</a> & <a href="https://ai.google.dev/" target="_blank">Gemini AI-API</a> (Purpose: Cognitive Automation & System Management) |
 | **Netwerk & Security** | ✅ <a href="https://www.pfsense.org/" target="_blank">🔥 pfSense</a> (Netgate SG), <a href="https://adguard.com/nl/adguard-home/overview.html" target="_blank">AdGuard Home</a> & <a href="https://www.twingate.com" target="_blank">Twingate</a> |
 | **Privacy & Access** | 🚨 <a href="https://www.lastpass.com/" target="_blank">LastPass</a>, 🔐 <a href="https://www.digicert.com" target="_blank">DigiCert</a> & 🔑 <a href="https://en.wikipedia.org/wiki/Time-based_one-time_password" target="_blank">TOTP (2FA)</a> |
 | **Connectiviteit** | <a href="https://www.expressvpn.com/" target="_blank">ExpressVPN</a> (NUC Bare Metal) & <a href="https://www.netgear.com/" target="_blank">Netgear Wifi</a> |
