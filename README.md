@@ -14,7 +14,7 @@
 
 <hr>
 
-Als proactieve ICT-Professional met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. Hierbij zet ik altijd de mens centraal.
+Als proactieve [ICT-Professional](https://www.linkedin.com/in/willemsej/) focus ik op mij op het optimaliseren van processen. Mijn belangrijkste doel is het optimaliseren van processen met behoud van kwaliteit en functionaliteit. Hierbij stel ik altijd de mens centraal
 
 <hr>
 
