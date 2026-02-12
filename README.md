@@ -98,7 +98,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 ---
 
 ### 🚻 Naast de code Hobbies
-🌍 Reizen | 🍳 Uit eten | 💿 Digitale Fotografie | 🎬 Films | 🔬 ICT Architect Advies (R&D Home)
+🌍 Reizen | 🍟 Uit eten | 💿 Digitale Fotografie | 🎬 Films | 🔬 ICT Architect Advies (R&D Home)
 
 ---
 
