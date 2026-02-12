@@ -32,7 +32,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 > *"De stap van een 'Bestuurbaar' huis naar een huis dat begrijpt wat je nodig hebt."*
 
-* **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer)  **"De Autonome Beheerder"**
+* **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer) via [Agentic Edge AI](https://en.wikipedia.org/wiki/AI_agent)  **"De Autonome Beheerder"**
 
 > *"In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"*
 
