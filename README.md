@@ -16,11 +16,15 @@ Ik ben een Homelabber,
 
 Als proactieve ICT-Professional met een visie op innovatie, focus ik op mij het optimaliseren van processen met behoud van kwaliteit en functionaliteit. Hierbij zet ik altijd de mens centraal.
 
+<hr>
+
 [![Proxmox VE](https://img.shields.io/badge/Infrastructure-Proxmox_VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com)
 [![ICT Architect](https://img.shields.io/badge/Role-ICT_Architect-orange?style=flat-square&logo=architecture&logoColor=white)](https://github.com/willemsej)
 ![System Architecture](https://img.shields.io/badge/Architecture-Enterprise_Grade-blue?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Philosophy-Open_Source-success?style=flat-square)
 ![Research](https://img.shields.io/badge/Focus-Cognitive_Automation-orange?style=flat-square)
+
+<hr>
 
 ### Onderzoek & Visie: Cognitive Automation
 In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
@@ -53,8 +57,6 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 ![System Architecture](https://img.shields.io/badge/Architecture-Enterprise_Grade-blue?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Philosophy-Open_Source-success?style=flat-square)
 
-> **ICT Professional Profile:** Specialized in enterprise architecture, high-availability email topology, and virtualized R&D environments.
-
 ---
 
 ### 🏅 Core Expertise & Architecture
@@ -62,6 +64,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 [![Proxmox VE](https://img.shields.io/badge/Infrastructure-Proxmox_VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com)
 [![HCL Domino](https://img.shields.io/badge/HCL_Domino-Routing_%26_Topology-blue?style=flat-square&logo=hcl&logoColor=white)](https://www.hcl-software.com/domino)
 ![System Architecture](https://img.shields.io/badge/Architecture-Enterprise_Grade-blue?style=flat-square)
+
 ---
 
 ### 🛠️ De HomeLab Stack 
@@ -94,7 +97,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 ---
 
-## 📸 Naast de code Hobbies
+### 📸 Naast de code Hobbies
 Wanneer ik niet bezig ben met het Homelab:<br>
 ✈️ Reizen | 🍽️ Uit eten | 📷 Digitale Fotografie | 🏛️ ICT Architect Advies (R&D Home)
 
@@ -116,16 +119,16 @@ Wanneer ik niet bezig ben met het Homelab:<br>
 
 ---
 
-# 🏛️ Innovatie en Agentic Edge AI
+### 🏛️ Innovatie en Agentic Edge AI
 [![ORCID Agentic Edge AI](https://img.shields.io/badge/Agentic_Edge_AI-0009--0005--2827--5748-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)
 ![Edge AI](https://img.shields.io/badge/Edge_AI-Local_Inference-blueviolet?style=for-the-badge&logo=ai)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Autonomous_Workflows-green?style=for-the-badge)
 
 ---
 
-> 'Smart' naar **Agentic Edge AI**, waarbij het huis autonoom handelt met 100% privacy.
+> *"Van 'Smart' naar **Agentic Edge AI**, waarbij het huis autonoom handelt met 100% privacy."*
 
----
+> ---
 
 ### 🔗 Digitale Voetafdruk
 <a href="https://www.linkedin.com/in/willemsej" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
