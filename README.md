@@ -18,14 +18,14 @@ Als proactieve [ICT-Professional](https://www.linkedin.com/in/willemsej/) focus 
 
 ### 🧠 Onderzoek & Visie: Cognitive Automation 
 
-In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
+In mijn Lab onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
 * **Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
 
 > *"De stap van een 'Bestuurbaar' huis naar een huis dat begrijpt wat je nodig hebt."*
 
 * **De Digitale Waakhond:** Ik onderzoek de inzet van [AI-modellen](https://nl.wikipedia.org/wiki/Kunstmatige_intelligentie) voor [Lokaal Systeembeheer](https://nl.wikipedia.org/wiki/Systeembeheer) via [Agentic Edge AI](https://wiki.ubc.ca/Agentic_AI) **"De Autonome Beheerder"**
 
-> *![Agentic AI](https://img.shields.io/badge/Agentic_AI-Local_Inference-8A2BE2?style=flat-square&logo=openai&logoColor=white) "In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"*
+> *"In de groei van de Labber naar ICT-Professional, is dan de **"De Autonome Beheerder"** de Toekomst ?"*
 
 ---
 
