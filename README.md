@@ -26,7 +26,7 @@ Als proactieve ICT-Professional met een visie op innovatie, focus ik op mij het 
 
 <hr>
 
-### 🧿 Onderzoek & Visie: Cognitive Automation
+### 🧠 Onderzoek & Visie: Cognitive Automation
 In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation)  **"De Toekomst in Huis"**
 * **Automation:** Ik onderzoek de inzet en mogelijkheden van [Cognitive Home Automation](https://en.wikipedia.org/wiki/Automation#Cognitive_automation). 
 
@@ -42,7 +42,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 ---
 
-### 🧠 Innovation & R&D Focus
+### 🧿 Innovation & R&D Focus
 ![AI Knowledge](https://img.shields.io/badge/AI_Implementation-Expert-blueviolet?style=flat-square)
 ![Research](https://img.shields.io/badge/Focus-Cognitive_Automation-blueviolet?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Philosophy-Open_Source-success?style=flat-square)
@@ -77,7 +77,7 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 | **Data Protection** | <a href="https://www.proxmox.com/en/proxmox-backup-server" target="_blank">Proxmox Backup Server (PBS)</a> & <a href="https://www.qnap.com" target="_blank">QNAP Storage</a> |
 | **Smart Home & AI** | <a href="https://www.home-assistant.io" target="_blank">Home Assistant (HA)</a>, <a href="https://voice-pe.home-assistant.io" target="_blank">Voice PE</a> & <a href="https://ai.google.dev/" target="_blank">Gemini AI-API</a> (Purpose: Cognitive Automation & System Management) |
 | **Netwerk & Security** | ✅ <a href="https://www.pfsense.org/" target="_blank">🔥 pfSense</a> (Netgate SG), <a href="https://adguard.com/nl/adguard-home/overview.html" target="_blank">AdGuard Home</a> & <a href="https://www.twingate.com" target="_blank">Twingate</a> |
-| **Privacy & Access** | 🚨 <a href="https://www.lastpass.com/" target="_blank">LastPass</a>, <a href="https://www.digicert.com" target="_blank">DigiCert</a> & <a href="https://en.wikipedia.org/wiki/Time-based_one-time_password" target="_blank">TOTP (2FA)</a> |
+| **Privacy & Access** | 🚨 <a href="https://www.lastpass.com/" target="_blank">LastPass</a>, 🔐 <a href="https://www.digicert.com" target="_blank">DigiCert</a> & 🔑 <a href="https://en.wikipedia.org/wiki/Time-based_one-time_password" target="_blank">TOTP (2FA)</a> |
 | **Connectiviteit** | <a href="https://www.expressvpn.com/" target="_blank">ExpressVPN</a> (NUC Bare Metal) & <a href="https://www.netgear.com/" target="_blank">Netgear Wifi</a> |
 | **Workflow Engine** | <a href="https://n8n.io" target="_blank">n8n</a> & <a href="https://nodered.org/" target="_blank">Node-RED</a> |
 | **Energie & Infra** | <a href="https://smart-stuff.nl/" target="_blank">Ethernet P1 Pro+</a> (`sensor.eth_dongle_pro`), <a href="https://www.tado.com" target="_blank">Tado</a> & <a href="https://www.solaredge.com" target="_blank">SolarEdge</a> |
@@ -138,4 +138,4 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 
 ---
 
-> *Alle uitingen en meningen op dit profiel zijn volledig op persoonlijke titel en hebben geen betrekking op, en vertegenwoordigen niet de standpunten van, mijn huidige of vorige werkgevers.*
+> *🐭 Alle uitingen en meningen op dit profiel zijn volledig op persoonlijke titel en hebben geen betrekking op, en vertegenwoordigen niet de standpunten van, mijn huidige of vorige werkgevers.*
