@@ -1,32 +1,18 @@
-<table width="100%">
-  <tr>
-    <td bgcolor="#f6f8fa">
-
 [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)   <small>John Willemse | ICT Professional | ICT Architect (R&D Home) | R&D Enthusiast | Open Source Advocate</small>   
 
----
-
-🤗 Ik ben een Homelabber, 
+### 🤗 De Homelabber
 <a href="https://github.com/willemsej/willemsej/blob/main/2026_02_Proxmox_PVE_Daily_HomeLab_Cluster_Usage_willemsej.jpg?raw=true" 
    target="_blank" 
    data-type="Homelab"
    data-owner="John Willemse"
    title="GitHub: willemsej | ICT Architect (R&D Home) PVE Cluster Usage" 
    aria-label="Proxmox PVE Daily Cluster Usage">
-  <strong>mijn Homelab</strong>
-</a> is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Het platform overstijgt in Hardware en Architectuur het gemiddelde MKB. Ik heb het Lab gebouwd als Hobby, voor mijn Passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org)
+  <strong>Mijn Homelab</strong></a> is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Het platform overstijgt in Hardware en Architectuur het gemiddelde MKB. Ik heb het Lab gebouwd als Hobby, voor mijn Passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
 
-<hr>
+---
 
-Als proactieve [ICT-Professional](https://www.linkedin.com/in/willemsej/) focus ik op mij op het optimaliseren van processen. Mijn belangrijkste doel is het optimaliseren van processen met behoud van kwaliteit en functionaliteit. Hierbij stel ik altijd de mens centraal
-
-<hr>
-
-[![Proxmox VE](https://img.shields.io/badge/Infrastructure-Proxmox_VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com)
-[![ICT Architect](https://img.shields.io/badge/Role-ICT_Architect-orange?style=flat-square&logo=architecture&logoColor=white)](https://github.com/willemsej)
-![System Architecture](https://img.shields.io/badge/Architecture-Enterprise_Grade-blue?style=flat-square)
-![Open Source](https://img.shields.io/badge/Philosophy-Open_Source-success?style=flat-square)
-![Research](https://img.shields.io/badge/Focus-Cognitive_Automation-orange?style=flat-square)
+Als proactieve [ICT-Professional](https://www.linkedin.com/in/willemsej/) focus ik op het optimaliseren van processen met behoud van kwaliteit en functionaliteit. 
+<br>Hierbij stel ik altijd de mens centraal.
 
 <hr>
 
@@ -48,8 +34,12 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 ---
 
 ### 🧿 Innovation & R&D Focus
+[![Proxmox VE](https://img.shields.io/badge/Infrastructure-Proxmox_VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com)
+[![ICT Architect](https://img.shields.io/badge/Role-ICT_Architect-orange?style=flat-square&logo=architecture&logoColor=white)](https://github.com/willemsej)
+![System Architecture](https://img.shields.io/badge/Architecture-Enterprise_Grade-blue?style=flat-square)
+![Open Source](https://img.shields.io/badge/Philosophy-Open_Source-success?style=flat-square)
+![Research](https://img.shields.io/badge/Focus-Cognitive_Automation-orange?style=flat-square)
 ![AI Knowledge](https://img.shields.io/badge/AI_Implementation-Expert-blueviolet?style=flat-square)
-![Research](https://img.shields.io/badge/Focus-Cognitive_Automation-blueviolet?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Philosophy-Open_Source-success?style=flat-square)
 ![Innovation](https://img.shields.io/badge/R%26D_Focus-The_Autonomous_Administrator-orange?style=flat-square)
 
@@ -144,7 +134,3 @@ In mijn Lab, als **"De Homelabber"**, onderzoek ik: [Cognitive Home Automation](
 ---
 
 > *🐭 Alle uitingen en meningen op dit profiel zijn volledig op persoonlijke titel en hebben geen betrekking op, en vertegenwoordigen niet de standpunten van, mijn huidige of vorige werkgevers.*
-
-</td>
-  </tr>
-</table>
