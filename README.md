@@ -75,7 +75,7 @@ In mijn Lab onderzoek ik: [Cognitive Home Automation](https://en.wikipedia.org/w
 | **Privacy & Access** | 🚨 <a href="https://www.lastpass.com/" target="_blank">LastPass</a>, 🔐 <a href="https://www.digicert.com" target="_blank">DigiCert</a> & 🔑 <a href="https://en.wikipedia.org/wiki/Time-based_one-time_password" target="_blank">TOTP (2FA)</a> |
 | **Connectiviteit** | <a href="https://www.expressvpn.com/" target="_blank">ExpressVPN</a> (NUC Bare Metal) & <a href="https://www.netgear.com/" target="_blank">Netgear Wifi</a> |
 | **Workflow Engine** | <a href="https://n8n.io" target="_blank">n8n</a> & <a href="https://nodered.org/" target="_blank">Node-RED</a> |
-| **Energie & Infra** | <a href="https://smart-stuff.nl/" target="_blank">Ethernet P1 Pro+</a> (`sensor.eth_dongle_pro`), <a href="https://www.tado.com" target="_blank">Tado</a> & <a href="https://www.solaredge.com" target="_blank">SolarEdge</a> |
+| **Energie & Infra** | <a href="https://smart-stuff.nl/" target="_blank">Ethernet P1 Pro+</a> (`sensor.eth_dongle_pro`), <a href="https://www.tado.com" target="_blank">Tado AI Assist</a> & <a href="https://www.solaredge.com" target="_blank">SolarEdge</a> |
 | **Web & Domain** | 🗝️ <a href="https://httpd.apache.org/" target="_blank">Apache</a> & <a href="https://www.secureserver.net/whois?plid=1592&domain=badkey.com" target="_blank">©️badkey.com</a> in <a href="https://www.badkey.com" target="_blank">DMZ</a> |
 
 ---
