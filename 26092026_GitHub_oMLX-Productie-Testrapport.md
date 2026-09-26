@@ -1,8 +1,8 @@
-# oMLX Productie Testrapport
+# Hermes Agent, AI Agent Framework (Nous Research) Testrapport
 
 **Mac Mini M4**  
 **Datum:** 26 september 2026  
-**Versie:** 1.0 — DEFINITIEF  
+**Versie:** 1.0 — DEFINITIEF
 **Auteur:** [John Willemse](https://github.com/willemsej)
 
 ---
