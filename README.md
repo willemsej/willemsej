@@ -1,6 +1,7 @@
 [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)   <small>John Willemse | ICT Professional | ICT Architect (R&D Home) | R&D Enthusiast | Open Source Advocate</small>
 
-100% LLM GPT-OSS-20b Lokaal AI gebruik.
+Stack: Hermes Agent Open Source, autonoom AI Agent Framework (Nous Research).
+AI: 100% Lokaal AI gebruik, LLM GPT-OSS-20b. 
 
 ### 📊 Test Rapport — oMLX Productie
 
