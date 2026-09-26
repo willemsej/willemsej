@@ -1,5 +1,7 @@
 [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)   <small>John Willemse | ICT Professional | ICT Architect (R&D Home) | R&D Enthusiast | Open Source Advocate</small>   
 
+100% LLM gpt-oss-20b Lokaal AI gebruik. Test Rapport 26-09-2026 Lab Setup "Brein". De LLM gpt-oss-20b op 45 TPS! 😎
+
 ### 🤗 De Homelabber
 <a href="https://github.com/willemsej/willemsej/blob/main/2026_02_Proxmox_PVE_Daily_HomeLab_Cluster_Usage_willemsej.jpg?raw=true" 
    target="_blank" 
