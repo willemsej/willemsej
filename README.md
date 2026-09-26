@@ -3,7 +3,7 @@
 Stack: Hermes Agent Open Source, autonoom AI Agent Framework (Nous Research).
 AI: 100% Lokaal AI gebruik, LLM GPT-OSS-20b. 
 
-### 📊 Test Rapport — oMLX Productie
+### 📊 Test Rapport — Hermes Agent, AI Agent Framework (Nous Research) 
 
 | Metriek | Waarde |
 | :--- | :--- |
