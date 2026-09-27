@@ -1,9 +1,56 @@
 [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)   <small>John Willemse | ICT Professional | ICT Architect (R&D Home) | R&D Enthusiast | Open Source Advocate</small>
 
-Stack: Hermes Agent Open Source, autonoom AI Agent Framework (Nous Research).
-AI: 100% Lokaal AI gebruik, LLM GPT-OSS-20b. 
+---
+
+### 🤗 De Homelabber
+
+<a href="https://github.com/willemsej/willemsej/blob/main/2026_02_Proxmox_PVE_Daily_HomeLab_Cluster_Usage_willemsej.jpg?raw=true"
+   target="_blank"
+   data-type="Homelab"
+   data-owner="John Willemse"
+   title="GitHub: willemsej | ICT Architect (R&D Home) PVE Cluster Usage"
+   aria-label="Proxmox PVE Daily Cluster Usage">
+  <strong>Mijn Homelab</strong></a> is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Het platform overstijgt in Hardware en Architectuur het gemiddelde MKB. Ik heb het Lab gebouwd als Hobby, voor mijn Passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
+
+---
+
+### 📊 Test Rapport — muxodious-mlx (MXFP4, 0/9 weigeringen)  
+
+# oMLX Totaal Rapport — muxodious-mlx
+# Mac Mini M4
+# Datum: 27 september 2026
+# Versie: 1.0 — DEFINITIEF
+
++-----------------------------------------------------------------------------------+
+|                    THE DREAM MACHINE - 100% OPERATIONEEL                          |
++-----------------------------------------------------------------------------------+
+|  Model:       muxodious-mlx (MXFP4, 0/9 weigeringen)                              |
+|  Server:      Mac Mini M4, oMLX 0.32                                              |
+|  Generatie:   45.22 tok/s                                                         |
+|  Prefill:     246.3 tok/s (+16.8%)                                                |
+|  Geheugen:    10.7 GB (-1.2 GB)                                                   |
+|  Requests:    1000/1000 zonder crash                                              |
+|  Temperatuur: 100°C max, herstelt naar 35°C                                       |
+|  Reboot:      Bestendig                                                           |
+|  Abliteration: 0/9 weigeringen                                                    |
++-----------------------------------------------------------------------------------+
+*Document gegenereerd voor trainings- en demodoeeinden. Gebruik alleen in gecontroleerde, geautoriseerde omgevingen.*
+
+<a href="https://github.com/willemsej/willemsej/blob/main/oMLX-Totaal-Rapport-muxodious-mlx.md"
+   target="_blank"
+   data-type="Test Rapport 27-09-2026"
+   data-owner="John Willemse"
+   title="GitHub: willemsej | ICT Architect (R&D Home)"
+   aria-label="oMLX Productie Testrapport —  muxodious-mlx MXFP4 45 TPS op Mac Mini M4">
+   <strong>Volledig Test Rapport 27-09-2026 — 45 TPS 😎</strong>
+</a>
+
+---
 
 ### 📊 Test Rapport — Hermes Agent, AI Agent Framework (Nous Research) 
+
+Stack: Hermes Agent Open Source, autonoom AI Agent Framework (Nous Research).
+AI: 100% Lokaal AI gebruik, LLM GPT-OSS-20b. 
 
 | Metriek | Waarde |
 | :--- | :--- |
@@ -23,18 +70,6 @@ AI: 100% Lokaal AI gebruik, LLM GPT-OSS-20b.
    aria-label="oMLX Productie Testrapport — 45 TPS op Mac Mini M4">
    <strong>Volledig Test Rapport 26-09-2026 — 45 TPS 😎</strong>
 </a>
-
----
-
-### 🤗 De Homelabber
-
-<a href="https://github.com/willemsej/willemsej/blob/main/2026_02_Proxmox_PVE_Daily_HomeLab_Cluster_Usage_willemsej.jpg?raw=true"
-   target="_blank"
-   data-type="Homelab"
-   data-owner="John Willemse"
-   title="GitHub: willemsej | ICT Architect (R&D Home) PVE Cluster Usage"
-   aria-label="Proxmox PVE Daily Cluster Usage">
-  <strong>Mijn Homelab</strong></a> is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Het platform overstijgt in Hardware en Architectuur het gemiddelde MKB. Ik heb het Lab gebouwd als Hobby, voor mijn Passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
 
 ---
 
