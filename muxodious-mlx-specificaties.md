@@ -1,7 +1,7 @@
 # muxodious-mlx — Modelspecificaties
 
 **Datum:** 27 september 2026
-**Versie:** 1.0
+**Versie:** 1.0   https://github.com/willemsej
 
 ---
 
