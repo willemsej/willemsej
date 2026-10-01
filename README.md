@@ -6,7 +6,7 @@
 
 ## 🤗 De Homelabber
 
-[**Mijn Homelab**](https://github.com/willemsej/willemsej/blob/main/2026_02_Proxmox_PVE_Daily_HomeLab_Cluster_Usage_willemsej.jpg?raw=true) is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Werk met ongecensureerd Security Model. Het platform overstijgt in Hardware en Architectuur het gemiddelde MKB. Ik heb het Lab gebouwd als Hobby, voor mijn Passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
+[**Mijn Homelab**](https://github.com/willemsej/willemsej/blob/main/HOMELAB-ARCHITECTUUR-EN-COGNITIEVE-FIREWALL.md?raw=true) is een enterprise grade Homelab waar **Open Source** en **AI** samenkomen. Werk met ongecensureerd Security Model. Het platform overstijgt in Hardware en Architectuur het gemiddelde MKB. Ik heb het Lab gebouwd als Hobby, voor mijn Passie: [Proxmox Virtual Environment (VE)](https://www.proxmox.com) en [Debian Linux](https://www.debian.org).
 
 ---
 
