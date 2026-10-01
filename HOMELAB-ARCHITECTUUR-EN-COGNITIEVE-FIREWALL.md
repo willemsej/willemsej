@@ -24,10 +24,47 @@ Dit is beveiliging op het snijvlak van paranoïde en pragmatisch: maximaal effec
 
 Omdat ons hoofdmodel (`muxodious-mlx` 21B) volledig *Abliterated* is en 0/9 weigeringen heeft op veiligheidsvragen, voert het blindelings destructieve en technische instructies uit[cite: 3, 4]. Ter bescherming van deze pure intelligentie is de onderstaande Defense-in-Depth firewall ingericht.
 
+      [ STROOM 1: HET INTERNET ]                     [ STROOM 2:  E-MAIL ]
+                  |                                         |
+                  v                                         v
+         +------------------+                      +-----------------------+
+         |    SearXNG       |                      | Himalaya (Postkamer)  |
+         | (Stateless/HTTP) |                      |  (IMAP Mail Server)   |
+         +------------------+                      +-----------------------+
+                  |                                         |
+                  | [Ruwe JSON]                             | [Ruwe HTML/EML]
+                  v                                         v
+         +------------------+                      +-----------------------+
+         |  Snippet Filter  |                      | Mail Sanitizer /      |
+         |(Python Sanitizer |                      |  HTML-to-Text Parser  |
+         |  Snippet-Only)   |                      | (100% Platte ASCII)   |
+         +------------------+                      +-----------------------+
+                  |                                         |
+                  | [JSON Data]                             | [ASCII Data]
+                  v                                         v
+     +---------------------------------------------------------------------+
+     |   DE POORTWACHTER    LLAMA GUARD 3 (1B) op ollama server            |
+     |       (Blokkeert S6-Hacking/Injecties - 150ms Latency)            |
+     +---------------------------------------------------------------------+
+                  | [Safe]                                  | [Safe]
+                  v                                         v
+         +------------------+                      +-----------------------+
+         |   Hermes API     |                      |   LLM gpt-oss:20b     |
+         | (Web-Tool Flow)  |                      | (Feiten Extractie)    |
+         +------------------+                      +-----------------------+
+                  |                                         |
+                  v                                         v
+         +-------------------+                  +----------------------------+
+         | A2A Multi (Orkest)|                  |         Hindsight          |
+         |   Hermes Agents   |                  |(holografische geheugenlaag)|
+         +-------------------+                  +----------------------------+
+                  |                                          |
+                  +-> MuXodious/gpt-oss-20b (Abliterated) <--+
+                            
 ### Stroom 1: Het Internet (SearXNG)
-* **Ingang:** SearXNG (Stateless / HTTP)[cite: 5]
+* **Ingang:** SearXNG (Stateless / HTTP)
 * **Sanitization:** Snippet Filter (Python Sanitizer Snippet-Only) — Externe webdata wordt direct teruggebracht tot begrensde, veilige tekstfragmenten om *Structured Prompts with Clear Separation* af te dwingen.
-* **Poortwachter:** Llama Guard 3 (1B) op de Ollama server (Blokkeert S6 Hacking/Injecties, 143ms latency, geen RAM swap).
+* **Poortwachter:** Llama Guard 3 (1B) op de Ollama server (Blokkeert S6 Hacking/Injecties, 150ms latency, geen swap).
 * **Doel:** Hermes API (Web-Tool Flow) ➔ A2A Agents (Vera, Sabrina) ➔ `muxodious-mlx` (21B).
 
 ### Stroom 2: E-mail (Gmail / Himalaya)
