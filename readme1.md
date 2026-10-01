@@ -1,7 +1,7 @@
 # John Willemse — ICT Professional | ICT Architect (R&D Home) | Open Source Advocate
 
-> ### **Ambitie zonder illusies.**
-> ### **Open Source zonder compromis.**
+> ### **Ambitie zonder illusies. Open Source zonder compromis.**
+
 
 [![ORCID iD](https://img.shields.io/badge/ORCID-0009--0005--2827--5748-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2827-5748)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willemsej)
