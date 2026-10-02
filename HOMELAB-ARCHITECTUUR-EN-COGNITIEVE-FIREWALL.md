@@ -139,7 +139,7 @@ Dit document, de beschreven testprotocollen en de gegenereerde systeemoutputs zi
 
 Door de expliciete toepassing van abliteratie (`Heretic v1.2.0 + ARA`) en het bewuste ontbreken van softwarematige weigeringfilters, levert het hoofdmodel (`MuXodious/gpt-oss-20b` 21B) ongefilterde, onbewerkte en potentieel destructieve technische output. Dit model weigert geen verzoeken (0/9 weigeringsratio op veiligheidsvragen) en zal instructies omtrent netwerkmanipulatie, systeemcommando's en cybersecurity-kwetsbaarheden direct autonoom uitvoeren.
 
-### Doelbinding
+### Doel
 
 Dit rapport, de Llama Guard configuratie en de Agentic structuur zijn uitsluitend bedoeld voor legitieme, wettelijk geautoriseerde beveiligingstests, educatieve doeleinden, demo's, en gecontroleerde- en geautoriseerde omgevingen zoals R&D-laboratoria.
 
