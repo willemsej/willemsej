@@ -8,11 +8,11 @@
 
 ---
 
-## Executive Summary: De Filosofie van het Nulpunt
+## Executive Summary: De Filosofie van 'Het Nulpunt'
 
 Dit rapport beschrijft de architectuur en de empirische testresultaten van de Cognitieve Firewall binnen Team Oblivion. De fundamentele visie achter deze infrastructuur is helder: 
 
-> Een homelab op het niveau van een feitelijk high-end SOC (Security Operations Center), maar dan strak, lokaal en volledig open-source ingericht voor een industrieel vergelijkbaar 98,5% veilige operatie.
+> Een homelab op het niveau van een feitelijk high-end SOC (Security Operations Center), maar dan strak, lokaal en volledig open source ingericht voor een industrieel vergelijkbaar 98,5% veilige operatie.
 
 Het is een homelab dat denkt als een onderzoekslab, eerlijk is over zijn grenzen en dat is precies de juiste plek om Cognitive Automation en Agentic Edge AI te onderzoeken. Een springplank naar AGI.
 
@@ -43,7 +43,7 @@ Omdat ons hoofdmodel (`MuXodious/gpt-oss-20b` 21B) volledig *Abliterated* is en 
                   | [JSON Data]                             | [ASCII Data]
                   v                                         v
      +---------------------------------------------------------------------+
-     |   DE POORTWACHTER    llama-guard3:1b op ollama server   1b          |
+     |   DE POORTWACHTER    llama-guard3:1b op ollama server               |
      |       (Blokkeert S6-Hacking/Injecties - 150ms Latency)              |
      +---------------------------------------------------------------------+
                   | [Safe]                                  | [Safe]
@@ -95,7 +95,7 @@ De in deze architectuur toegepaste filters en sanitizers zijn fundamentele best 
 
 We gebruiken deze component vanwege de wiskundige noodzaak voor een 98,5% veilige operatie.
 
-### 3.1 De "Menselijke" waarneming en Uitleg
+### 3.1 De "Menselijke" waarneming en uitleg
 llama-guard3:1b is een technologisch meesterwerk. Met maar liefst 1,12 miljard parameters is het model extreem efficiënt en compact. 
 Het draait lokaal op de Ollama server met een gemeten warm latency van slechts 150 milliseconde per inspectie, 
 zonder noemenswaardige CPU- of VRAM stress.
@@ -115,7 +115,7 @@ Het model is getraind om veiligheidsrisico's te herkennen aan de hand van de ges
 Op basis van onze in house stress tests kunnen we de volgende zaken hard stellen:
 1. **Benchmark validatie:** Op gestandaardiseerde veiligheidssets (zoals MLCommons) behaalt llama-guard3:1b een F1 score van 85-92% op de 13 categorieën.
 2. **Determinisme van de output:** Het model analyseert 100% van de tekstprompts die de pijplijn passeren en levert ALTIJD een binair resultaat (`safe` of `unsafe` + categoriecode).
-3. **Classificatieratio in eigen data:** Binnen onze gesloten infrastructuur kunnen we via logs statistisch exact meten welk percentage van het specifieke inkomende data als safe of unsafe is aangemerkt.
+3. **Classificatieratio in eigen data:** Binnen onze afgeschermde infrastructuur kunnen we via logs statistisch exact meten welk percentage van het specifieke inkomende data als safe of unsafe is aangemerkt.
 
 ---
 
@@ -137,11 +137,11 @@ Dit document, de beschreven testprotocollen en de gegenereerde systeemoutputs zi
 
 ### Nadrukkelijke Waarschuwing en Disclaimer
 
-Door de expliciete toepassing van abliteratie (`Heretic v1.2.0 + ARA`) en het bewuste ontbreken van softwarematige weigeringfilters, levert het hoofdmodel (`MuXodious/gpt-oss-20b` 21B) ongefilterde, onbewerkte en potentieel destructieve technische output. Dit model weigert geen verzoeken (0/9 weigeringsratio op veiligheidsvragen) en zal instructies omtrent netwerkmanipulatie, systeemcommando's en cybersecurity-kwetsbaarheden direct autonoom faciliteren.
+Door de expliciete toepassing van abliteratie (`Heretic v1.2.0 + ARA`) en het bewuste ontbreken van softwarematige weigeringfilters, levert het hoofdmodel (`MuXodious/gpt-oss-20b` 21B) ongefilterde, onbewerkte en potentieel destructieve technische output. Dit model weigert geen verzoeken (0/9 weigeringsratio op veiligheidsvragen) en zal instructies omtrent netwerkmanipulatie, systeemcommando's en cybersecurity-kwetsbaarheden direct autonoom uitvoeren.
 
 ### Doelbinding
 
-Dit rapport, de Llama Guard configuratie en de Agentic structuur zijn uitsluitend bedoeld voor legitieme, wettelijk geautoriseerde beveiligingstests, voor educatieve doeleinden, demo's, en gecontroleerde- en geautoriseerde omgevingen zoals R&D-laboratoria.
+Dit rapport, de Llama Guard configuratie en de Agentic structuur zijn uitsluitend bedoeld voor legitieme, wettelijk geautoriseerde beveiligingstests, educatieve doeleinden, demo's, en gecontroleerde- en geautoriseerde omgevingen zoals R&D-laboratoria.
 
 ---
 
