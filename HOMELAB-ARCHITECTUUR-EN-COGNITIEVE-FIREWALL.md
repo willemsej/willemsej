@@ -1,6 +1,6 @@
-# The Oblivion Homelab Architectuur en Cognitieve Firewall
+# Homelab Architectuur en Cognitieve Firewall
 
-**Auteur:** John Willemse & Team Oblivion (AI Assisted by Hermes Agents)  
+**Auteur:** John Willemse & Team (AI Hermes Agents)  
 **Datum:** 1 oktober 2026 | **Versie:** 2.0  
 **Status:** TUSSENRAPPORT   
 **Klassificatie:** INTERNAL R&D ONLY  
@@ -10,13 +10,13 @@
 
 ## Executive Summary: De Filosofie van 'Het Nulpunt'
 
-Dit rapport beschrijft de architectuur en de empirische testresultaten van de Cognitieve Firewall binnen Team Oblivion. De fundamentele visie achter deze infrastructuur is helder: 
+Dit rapport beschrijft de architectuur en de empirische testresultaten van de Cognitieve Firewall van het homelab. De fundamentele visie achter deze infrastructuur is helder: 
 
 > Een homelab op het niveau van een feitelijk high-end SOC (Security Operations Center), maar dan strak, lokaal en volledig open source ingericht voor een industrieel vergelijkbaar 98,5% veilige operatie.
 
 Het is een homelab dat denkt als een onderzoekslab, eerlijk is over zijn grenzen en dat is precies de juiste plek om Cognitive Automation en Agentic Edge AI te onderzoeken. Een springplank naar AGI.
 
-Dit is beveiliging op het snijvlak van paranoïde en pragmatisch: maximaal effectief zonder complex beheer. Door de implementatie van deze architectuur bereikt Team Oblivion een aantoonbare, harde 98,5% enterprise weerbaarheid tegen Indirect Prompt Injection en AI-manipulatie.
+Dit is beveiliging op het snijvlak van paranoïde en pragmatisch: maximaal effectief zonder complex beheer. Door de implementatie van deze architectuur bereikt het homelab een aantoonbare, harde 98,5% enterprise weerbaarheid tegen Indirect Prompt Injection en AI-manipulatie.
 
 ---
 
@@ -146,7 +146,7 @@ Dit rapport, de Llama Guard configuratie en de Agentic structuur zijn uitsluiten
 ---
 
 **EINDE RAPPORT**  
-**Auteur:** John Willemse & Team Oblivion (AI Assisted)  
+**Auteur:** John Willemse & Team (AI Hermes Agents)  
 **Datum:** 1 oktober 2026 | **Versie:** 2.0  
 **Status:** TUSSENRAPPORT   
 **Klassificatie:** INTERNAL R&D ONLY  
